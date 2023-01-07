@@ -10,3 +10,4 @@
 
 This is an example of a GitHub repository.
 This is a new line in my repository.
+And this is another new line created in Gitpod.
